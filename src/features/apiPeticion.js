@@ -1,4 +1,4 @@
-import axios from "./api.js";
+import axios from "./axios.js";
 import { setAllCategory, setAllMarcas, setAllProducts, setFilter } from "./productsSlice";
 
 export async function getAllProducts(state, type) {

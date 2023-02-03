@@ -1,0 +1,31 @@
+
+
+
+.container{
+    width: 100%;
+    /* background-image: linear-gradient(to bottom, #c699e9, #a9a7f9, #87b3ff, #63beff, #3ec8ff); */
+    height: auto;
+  }
+  
+  
+  .swiperContainer{
+    overflow-x: hidden;
+    display:flex;
+    justify-content: center;
+    margin-top: -100px;
+    width: 100%;
+    
+  }
+
+  .ofertaimg:hover{
+      -webkit-filter: blur(4px); /* Chrome, Safari, Opera */
+       filter: blur(4px);
+    }
+
+  
+  
+  .ofertaimg{
+    width: 100%;
+    height: auto;
+    
+  }
